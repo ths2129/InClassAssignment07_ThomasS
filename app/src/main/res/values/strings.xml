@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">New Yorker Profile</string>
+    <string name="name">What is your name?</string>
+    <string name="borough">NY Borough?</string>
+    <string name="roomates">Do you have roommates</string>
+    <string name="pet">Do you have a pet</string>
+    <string name="nonbinary">nonbinary</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="jets">Jets</string>
+    <string name="giants">Giants</string>
+    <string name="niether">Neither!</string>
+    <string name="hate">I hate sports</string>
+    <string name="sports">Sports Team?</string>
+    <string name="begin">Click Submit button below to begin</string>
+
+    <string-array name="boroughs">
+        <item>Manhattan</item>
+        <item>Bronx</item>
+        <item>Staten Island</item>
+        <item>Brooklyn</item>
+        <item>Queens</item>
+        <item>I do not live in NYC</item>
+
+    </string-array>
+</resources>
